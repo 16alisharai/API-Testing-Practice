@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: src/test/java/tests/CreateABugOnJiraTest.java
+  checksum: 02a8fd9bcf3253ef53c04e38a6ade686a1648b23a7f26802f406eda4d3b02c43
+- filename: src/test/java/tests/PogoClassDemo.java
+  checksum: 4fd5b663f7c6692f6ad1663e3179f76317e43994206a0bee607a22fd848ee8b0
+- filename: src/test/java/tests/Tests.java
+  checksum: 5df49e30d9fa1f98c1cc1dadc08f22366edd522c3f971ce721aedc57b27714fd
+- filename: src/test/java/files/Payloads.java
+  checksum: bb1c67039616b351612b92fb348c71b13260b0905fce76c6fff1f1e74d8bc17b
+- filename: src/test/java/tests/OAuthTest.java
+  checksum: edf06e0cc2478b03d6a1239369e084e038c19a0a19aaf15a9be2aa8190b73ad4
+- filename: .idea/uiDesigner.xml
+  checksum: 146eeae797db9b77bb04bd43a344aea620f5f739914e4e1566b396f9912ee6f4
+version: ""
